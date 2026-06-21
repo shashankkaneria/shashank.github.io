@@ -1,0 +1,171 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Sharbat",
+      "name": "Rose Sharbat",
+      "description": "Traditional rose-flavored concentrate. Perfect for refreshing drinks on warm days.",
+      "sizes": [
+        {
+          "size": "500ml",
+          "price": 299
+        },
+        {
+          "size": "1 Litre",
+          "price": 499
+        }
+      ],
+      "images": [
+        "\\img\\sharbat\\rose1.png?w=400&h=400&fit=crop",
+        "\\img\\sharbat\\rose2.png?w=400&h=400&fit=crop",
+        "\\img\\sharbat\\rose3.png?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Sharbat",
+      "name": "Khus Sharbat",
+      "description": "Rich Khus-flavored sharbat with natural sweetness and health benefits.",
+      "sizes": [
+        {
+          "size": "500ml",
+          "price": 299
+        },
+        {
+          "size": "1 Litre",
+          "price": 499
+        }
+      ],
+      "images": [
+        "\\img\\sharbat\\khus1.png?w=400&h=400&fit=crop",
+        "\\img\\sharbat\\khus2.png?w=400&h=400&fit=crop",
+        "\\img\\sharbat\\khus3.png?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Extracts",
+      "name": "Tulsi Extract",
+      "description": "Pure Tulsi (Holy Basil) extract with medicinal properties for wellness.",
+      "sizes": [
+        {
+          "size": "500ml",
+          "price": 299
+        },
+        {
+          "size": "1 Litre",
+          "price": 499
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1597318780221-4ed3a9e2f6de?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1611599810694-32d7ca9e21ca?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1597318780137-7b5b5e76bd53?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Extracts",
+      "name": "Amla Extract",
+      "description": "Concentrated Amla (Indian Gooseberry) extract, rich in Vitamin C.",
+      "sizes": [
+        {
+          "size": "500ml",
+          "price": 299
+        },
+        {
+          "size": "1 Litre",
+          "price": 499
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Tea",
+      "name": "Assam Tea",
+      "description": "Bold and malty Assam tea from India. Perfect for a strong, invigorating cup.",
+      "sizes": [
+        {
+          "size": "500ml",
+          "price": 299
+        },
+        {
+          "size": "1 Litre",
+          "price": 499
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1597318780137-7b5b5e76bd53?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1577318924282-55e0437c3daa?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1597318780221-4ed3a9e2f6de?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Tea",
+      "name": "Green Tea",
+      "description": "Premium quality green tea leaves. Rich in antioxidants, smooth and rejuvenating.",
+      "sizes": [
+        {
+          "size": "500ml",
+          "price": 299
+        },
+        {
+          "size": "1 Litre",
+          "price": 499
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1597318780221-4ed3a9e2f6de?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1611599810694-32d7ca9e21ca?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Sharbat",
+      "name": "Lemon Mint Ginger Sharbat",
+      "description": "Zesty lemon combined with warming ginger and refreshing mint. A delightful blend with health benefits.",
+      "sizes": [
+        {
+          "size": "500ml",
+          "price": 349
+        },
+        {
+          "size": "1 Litre",
+          "price": 549
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    },{
+      "id": 8,
+      "category": "Assorted",
+      "name": "Gulkand",
+      "description": "Sweet rose petal preserve, perfect for desserts and traditional recipes.",
+      "sizes": [
+        {
+          "size": "500ml",
+          "price": 349
+        },
+        {
+          "size": "1 Litre",
+          "price": 549
+        }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    }
+  ]
+}

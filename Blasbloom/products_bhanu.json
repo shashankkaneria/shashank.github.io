@@ -1,0 +1,183 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Sharbat",
+      "name": " Chetri Rose Sharbat",
+      "description": "The Blasbloom Haldighati Chetri Rose Syrup is a distinguished artisanal product crafted using the traditional Indian steam distillation method. It is made from Chetri Ruh Gulab, the pure essence of the rare Haldighati Chetri rose, and sweetened with Dhagga Mishri (rock sugar), preserving both its authenticity and therapeutic value. The Chetri rose, revered as one of the finest rose varieties in the world, blooms only once a year for a brief period—typically in March or April—making it exceptionally rare and precious. Grown in the historic region of Haldighati, Rajasthan, this rose holds deep cultural and botanical significance. Its unparalleled fragrance, delicate petals, and limited availability have made it a symbol of purity, heritage, and luxury in Indian floral traditions.No added preservative & artificial color.",
+      "sizes": [
+        {
+          "size": "750ml",
+          "price": 195
+        },
+      ],
+      "images": [
+        "img/rose1.png?w=400&h=400&fit=crop",
+        "img/rose2.png?w=400&h=400&fit=crop",
+        "img/rose3.png?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Sharbat",
+      "name": "Khus Sharbat",
+      "description": " Blasbloom Khus sharbat made by the distillation process is crafted from the pure essence of vetiver roots — often called Ruh Khus — using a traditional hydro-distillation method that’s centuries old in India.
+Khus sharbat is a fragrant, cooling drink made from the roots of vetiver grass, known for its earthy, slightly sweet aroma and natural green hue. In India, it’s a classic summer refresher — not just because it tastes good, but because khus is believed to have cooling properties that help beat the heat.No added preservative & artificial color.",
+      "sizes": [
+        {
+          "size": "750ml",
+          "price": 195
+        },
+        
+      ],
+      "images": [
+        "img/khus1.png?w=400&h=400&fit=crop",
+        "img/khus2.png?w=400&h=400&fit=crop",
+        "img/khus3.png?w=400&h=400&fit=crop"
+      ]
+    },
+       {
+      "id": 3,
+      "category": "Sharbat",
+      "name": "Leamon Mint Ginger Sharbat",
+      "description": " The Blasbloom Lemon Mint Ginger Syrup is a premium wellness formulation prepared through India’s traditional steam distillation process. Expertly crafted from a harmonious blend of lemon, mint, and ginger, and sweetened with Dhagga Mishri (rock sugar), this syrup embodies both purity and therapeutic value. Its natural ingredients are known to support digestive health, alleviate bloating, and promote overall gastrointestinal comfort. By preserving the integrity of time-honored methods and using high-quality botanicals, Blasbloom offers a refreshing and effective remedy rooted in India’s rich heritage of holistic wellness.No added preservative & artificial color.",
+      "sizes": [
+        {
+          "size": "750ml",
+          "price": 245
+        },
+        
+      ],
+      "images": [
+        "img/ Leamon Mint1.png?w=400&h=400&fit=crop",
+        "img/ Leamon Mint2.png?w=400&h=400&fit=crop",
+        "img/ Leamon Mint3.png?w=400&h=400&fit=crop"
+      ]
+    },
+       {
+      "id": 4,
+      "category": "Mojito/Lemonade",
+      "name": "Leamon Mint Ginger",
+      "description": " The Blasbloom Lemon Mint Ginger Syrup is a premium wellness formulation prepared through India’s traditional steam distillation process. Expertly crafted from a harmonious blend of lemon, mint, and ginger, and sweetened with Dhagga Mishri (rock sugar), this syrup embodies both purity and therapeutic value. Its natural ingredients are known to support digestive health, alleviate bloating, and promote overall gastrointestinal comfort. By preserving the integrity of time-honored methods and using high-quality botanicals, Blasbloom offers a refreshing and effective remedy rooted in India’s rich heritage of holistic wellness.No added preservative & artificial color.",
+      "sizes": [
+        {
+          "size": "750ml",
+          "price": 245
+        },
+        
+      ],
+      "images": [
+        "img/ Leamon Mint1.png?w=400&h=400&fit=crop",
+        "img/ Leamon Mint2.png?w=400&h=400&fit=crop",
+        "img/ Leamon Mint3.png?w=400&h=400&fit=crop"
+      ]
+    },
+
+    {
+      "id": 5,
+      "category": "Tea",
+      "name": "Premium Green Tea",
+      "description": " Kangra Green Tea is a rare Himalayan treasure grown in the pristine valleys of Himachal Pradesh. Cultivated at high altitudes in the Kangra region, this tea is known for its smooth, floral aroma and refreshing earthy flavor that rejuvenates both body and mind. It’s a singleorigin tea, handpicked and minimally processed to preserve its natural antioxidants and nutrients.",
+      "sizes": [
+        {
+          "size": "1kg",
+          "price": 750
+        },
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1597318780137-7b5b5e76bd53?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1577318924282-55e0437c3daa?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1597318780221-4ed3a9e2f6de?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Tea",
+      "name": "Super Fine Green Tea",
+      "description": " Super Fine Green Tea is a premium grade tea crafted from the tenderest young leaves of Himalayan tea gardens. Carefully handpicked and delicately processed, it offers a smooth, mellow taste with a subtle floral aroma. This tea is prized for its high antioxidant content and refreshing character, making it the perfect choice for wellness enthusiasts and connoisseurs alike.",
+      "sizes": [
+        {
+          "size": "1kg",
+          "price": 450
+        },
+        
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1597318780221-4ed3a9e2f6de?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1611599810694-32d7ca9e21ca?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Tea",
+      "name": "Olang Tea",
+      "description": " Oolong Tea is a semioxidized specialty tea that bridges the delicate freshness of green tea with the bold richness of black tea. Originating from highaltitude gardens, each leaf is handpicked, carefully rolled, and partially fermented to create a layered taste experience. Its complex flavor profile—floral, fruity, and gently roasted—makes Oolong a connoisseur’s delight and a wellness essential. ",
+      "sizes": [
+        {
+          "size": "1kg",
+          "price": 3800
+        },
+        
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    },
+{
+      "id": 8,
+      "category": "Tea",
+      "name": "Earl Grey Tea Leaves",
+      "description": " Earl Grey Tea is one of the world’s most iconic blends, combining premium black tea leaves with the distinctive aroma of bergamot oil. Known for its refined taste and timeless appeal, Earl Grey delivers a citrusy fragrance, smooth body, and elegant flavor that has made it a favorite among tea lovers for centuries.",
+      "sizes": [
+        {
+          "size": "1kg",
+          "price": 1500
+        },
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    },
+{
+      "id": 9,
+      "category": "Tea",
+      "name": "Blue Tea Butterfly Pea Flower",
+      "description": " Blue Tea, crafted from the delicate Butterfly Pea Flower (Clitoria ternatea), is a naturally caffeinefree herbal infusion celebrated for its vibrant sapphire blue color and soothing floral taste. Known as the “tea of transformation,” it changes color when lemon or honey is added, making it both a wellness drink and a visual delight.",
+      "sizes": [
+        {
+          "size": "1kg",
+          "price": 1100
+        },
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    },
+{
+      "id": 10,
+      "category": "Tea",
+      "name": "Gooseberry Tea",
+      "description": " Gooseberry Tea, crafted from the finest Indian Amla (Phyllanthus emblica), is a premium herbal infusion that embodies the essence of Ayurveda. Known as a superfruit rich in Vitamin C and antioxidants, Amla has been revered for centuries for its rejuvenating properties. This tea delivers a refreshing citrustang flavor with subtle herbal notes, making it both invigorating and restorative.",
+      "sizes": [
+        {
+          "size": "500ml",
+          "price": 250
+        },
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    },
+]
+
+  ]
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Family Tree Export Example</title>
+  <style>
+    body { margin: 0; font-family: Inter, sans-serif; background: #f8fafc; color: #111827; }
+    .export-shell { max-width: 1200px; margin: 0 auto; padding: 32px; }
+    .export-title { margin: 0 0 14px; font-size: 2.2rem; }
+    .export-subtitle { margin: 0 0 32px; color: #475569; }
+    .tree-forest { display: flex; flex-wrap: wrap; gap: 48px; justify-content: center; }
+    .tree-branch { display: grid; gap: 24px; min-width: 320px; }
+    .tree-couple { display: flex; justify-content: center; gap: 28px; flex-wrap: wrap; position: relative; }
+    .tree-couple::after { content: ""; position: absolute; left: 50%; top: calc(100% + 6px); width: 2px; height: 20px; background: #ddd; transform: translateX(-50%); }
+    .tree-couple.single::after { display: none; }
+    .couple-container { display: flex; gap: 14px; background: rgba(255, 255, 255, 0.9); border: 2px solid #e2e8f0; border-radius: 20px; padding: 12px; box-shadow: 0 10px 20px rgba(15, 23, 42, 0.1); }
+    .tree-children { display: flex; flex-wrap: wrap; justify-content: center; gap: 34px; padding-top: 26px; position: relative; }
+    .tree-children::before { content: ""; position: absolute; left: 50%; top: 0; width: 2px; height: 26px; background: #ddd; transform: translateX(-50%); }
+    .tree-node { min-width: 220px; max-width: 260px; background: linear-gradient(180deg, rgba(255,255,255,0.95), rgba(255,255,255,0.82)); border: 1px solid rgba(99, 102, 241, 0.15); border-radius: 24px; padding: 18px; box-shadow: 0 20px 40px rgba(15, 23, 42, 0.08); display: grid; gap: 12px; position: relative; }
+    .tree-node.male { background: linear-gradient(180deg, #87CEEB, #4682B4); }
+    .tree-node.female { background: linear-gradient(180deg, #FFB6C1, #FF69B4); }
+    .tree-node:hover::after { content: attr(data-tooltip); position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); background: #333; color: white; padding: 8px 12px; border-radius: 6px; white-space: nowrap; z-index: 10; font-size: 0.9rem; }
+    .node-top { display: flex; gap: 14px; align-items: center; }
+    .node-avatar { width: 64px; height: 64px; border-radius: 50%; background: linear-gradient(135deg, #6366f1, #4f46e5); display: grid; place-items: center; color: white; font-size: 1.1rem; font-weight: 700; }
+    .node-avatar img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; }
+    .node-labels { display: grid; gap: 4px; }
+    .node-name { margin: 0; font-size: 1rem; }
+    .node-subtitle { margin: 0; color: #64748b; font-size: 0.9rem; }
+    .node-meta { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; color: #475569; font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <div class="export-shell">
+    <h1 class="export-title">Kaneria Family Tree � Export Example</h1>
+    <p class="export-subtitle">This static page shows your family tree visualization ready for publishing or printing.</p>
+    <div class="tree-forest">
+      <div class="tree-branch">
+        <div class="tree-couple">
+          <div class="couple-container">
+            <div class="tree-node male" data-tooltip="Gopal Kaneria (ID 1) - Male, Age 63, Born 15 May 1960, Family F1, Family elder and advisor.">
+              <div class="node-top"><span class="node-avatar">GK</span><div class="node-labels"><strong class="node-name">Gopal Kaneria</strong><p class="node-subtitle">ID 1</p></div></div>
+              <div class="node-meta"><span>Male</span><span>Age 63</span><span>15 May 1960</span></div>
+            </div>
+            <div class="tree-node female" data-tooltip="Asha Kaneria (ID 2) - Female, Age 61, Born 22 Aug 1962, Family F1, Loves family gatherings and cooking.">
+              <div class="node-top"><span class="node-avatar">AK</span><div class="node-labels"><strong class="node-name">Asha Kaneria</strong><p class="node-subtitle">ID 2</p></div></div>
+              <div class="node-meta"><span>Female</span><span>Age 61</span><span>22 Aug 1962</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tree-branch">
+        <div class="tree-couple">
+          <div class="couple-container">
+            <div class="tree-node male" data-tooltip="Shashank Kaneria (ID 3) - Male, Age 39, Born 10 Mar 1985, Family F1, Software engineer and father of the younger generation.">
+              <div class="node-top"><span class="node-avatar">SK</span><div class="node-labels"><strong class="node-name">Shashank Kaneria</strong><p class="node-subtitle">ID 3</p></div></div>
+              <div class="node-meta"><span>Male</span><span>Age 39</span><span>10 Mar 1985</span></div>
+            </div>
+            <div class="tree-node female" data-tooltip="Aditi Rathore (ID 5) - Female, Age 38, Born 18 Jul 1986, Family F1, Creative designer and supportive partner.">
+              <div class="node-top"><span class="node-avatar">AR</span><div class="node-labels"><strong class="node-name">Aditi Rathore</strong><p class="node-subtitle">ID 5</p></div></div>
+              <div class="node-meta"><span>Female</span><span>Age 38</span><span>18 Jul 1986</span></div>
+            </div>
+          </div>
+        </div>
+        <div class="tree-children">
+          <div class="tree-node male" data-tooltip="Anirudh Kaneria (ID 6) - Male, Age 16, Born 14 Feb 2010, Family F1, The youngest member of the family tree.">
+            <div class="node-top"><span class="node-avatar">AK</span><div class="node-labels"><strong class="node-name">Anirudh Kaneria</strong><p class="node-subtitle">ID 6</p></div></div>
+            <div class="node-meta"><span>Male</span><span>Age 16</span><span>14 Feb 2010</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

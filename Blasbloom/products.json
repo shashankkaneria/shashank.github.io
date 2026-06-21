@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Sharbat",
+      "name": "Chetri Rose Sharbat",
+      "description": "The Blasbloom Haldighati Chetri Rose Syrup is a distinguished artisanal product crafted using the traditional Indian steam distillation method. It is made from Chetri Ruh Gulab, the pure essence of the rare Haldighati Chetri rose, and sweetened with Dhagga Mishri (rock sugar), preserving both its authenticity and therapeutic value. No added preservative & artificial color.",
+      "sizes": [
+        { "size": "750ml", "price": 195 }
+      ],
+      "images": [
+        "img/sharbat/rose1.png?w=400&h=400&fit=crop",
+        "img/sharbat/rose2.png?w=400&h=400&fit=crop",
+        "img/sharbat/rose3.png?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Sharbat",
+      "name": "Khus Sharbat",
+      "description": "Blasbloom Khus sharbat made by the distillation process is crafted from the pure essence of vetiver roots using a traditional hydro-distillation method. Khus is a classic summer refresher with cooling properties. No added preservative & artificial color.",
+      "sizes": [
+        { "size": "750ml", "price": 195 }
+      ],
+      "images": [
+        "img/sharbat/khus1.png?w=400&h=400&fit=crop",
+        "img/sharbat/khus2.png?w=400&h=400&fit=crop",
+        "img/sharbat/khus3.png?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Sharbat",
+      "name": "Lemon Mint Ginger Sharbat",
+      "description": "The Blasbloom Lemon Mint Ginger Syrup is a premium wellness formulation prepared through India's traditional steam distillation process. Expertly crafted from lemon, mint, and ginger, sweetened with Dhagga Mishri. No added preservative & artificial color.",
+      "sizes": [
+        { "size": "750ml", "price": 245 }
+      ],
+      "images": [
+        "img/ Leamon Mint1.png?w=400&h=400&fit=crop",
+        "img/ Leamon Mint2.png?w=400&h=400&fit=crop",
+        "img/ Leamon Mint3.png?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Mojito/Lemonade",
+      "name": "Lemon Mint Ginger",
+      "description": "A refreshing mojito-style syrup blending lemon, mint, and ginger, crafted using traditional methods. No added preservative & artificial color.",
+      "sizes": [
+        { "size": "750ml", "price": 245 }
+      ],
+      "images": [
+        "img/ Leamon Mint1.png?w=400&h=400&fit=crop",
+        "img/ Leamon Mint2.png?w=400&h=400&fit=crop",
+        "img/ Leamon Mint3.png?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Tea",
+      "name": "Premium Green Tea",
+      "description": "Kangra Green Tea is a rare Himalayan treasure grown in the pristine valleys of Himachal Pradesh. Smooth, floral aroma and refreshing earthy flavor.",
+      "sizes": [
+        { "size": "1kg", "price": 750 }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1597318780137-7b5b5e76bd53?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1577318924282-55e0437c3daa?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1597318780221-4ed3a9e2f6de?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Tea",
+      "name": "Super Fine Green Tea",
+      "description": "Super Fine Green Tea is a premium grade tea crafted from tender young leaves of Himalayan gardens. High antioxidant content and refreshing character.",
+      "sizes": [
+        { "size": "1kg", "price": 450 }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1597318780221-4ed3a9e2f6de?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1611599810694-32d7ca9e21ca?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Tea",
+      "name": "Oolong Tea",
+      "description": "Oolong Tea is a semi-oxidized specialty tea offering floral, fruity, and gently roasted notes. A connoisseur's delight.",
+      "sizes": [
+        { "size": "1kg", "price": 3800 }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Tea",
+      "name": "Earl Grey Tea Leaves",
+      "description": "Earl Grey Tea combines premium black tea leaves with bergamot oil for a citrusy fragrance and smooth body.",
+      "sizes": [
+        { "size": "1kg", "price": 1500 }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Tea",
+      "name": "Blue Tea Butterfly Pea Flower",
+      "description": "Blue Tea, crafted from Butterfly Pea Flower, is a naturally caffeine-free herbal infusion celebrated for its vibrant blue color and soothing taste.",
+      "sizes": [
+        { "size": "1kg", "price": 1100 }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8e4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Tea",
+      "name": "Gooseberry Tea",
+      "description": "Gooseberry Tea, crafted from Amla, is a premium herbal infusion rich in Vitamin C and antioxidants with a refreshing citrus-tang flavor.",
+      "sizes": [
+        { "size": "500ml", "price": 250 }
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1587330391892-10ea8f4ed869?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1513161455079-7ef1a826e90c?w=400&h=400&fit=crop",
+        "https://images.unsplash.com/photo-1585518419759-cdf9844b57da?w=400&h=400&fit=crop"
+      ]
+    }
+  ]
+}

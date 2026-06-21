@@ -1,0 +1,457 @@
+{
+    "products":  [
+                     {
+                         "id":  1,
+                         "category":  "Brass Idols",
+                         "productName":  "Radha Krishna Brass Idol",
+                         "shortDescription":  "Handcrafted traditional brass idol",
+                         "fullDescription":  "Beautiful handcrafted Radha Krishna idol made by Indian artisans using traditional techniques. This exquisite piece captures the divine love story with intricate detailing and authentic craftsmanship. Perfect for home puja spaces or as a precious gift.",
+                         "price":  4999,
+                         "popularity":  95,
+                         "overallRating":  4.8,
+                         "image":  "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027100\u0027 r=\u002735\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpolygon points=\u0027150,140 120,180 180,180\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027180\u0027 width=\u0027100\u0027 height=\u002780\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ERadha Krishna%3C/text%3E%3C/svg%3E",
+                         "reviews":  [
+                                         {
+                                             "userName":  "Aarav Sharma",
+                                             "rating":  5,
+                                             "comment":  "Absolutely divine craftsmanship. The detailing is incredible!"
+                                         },
+                                         {
+                                             "userName":  "Priya Devi",
+                                             "rating":  5,
+                                             "comment":  "Beautiful piece. Exactly as described. Perfect for home puja."
+                                         },
+                                         {
+                                             "userName":  "Rajesh Kumar",
+                                             "rating":  4,
+                                             "comment":  "Great quality brass idol. Authentic and traditional."
+                                         },
+                                         {
+                                             "userName":  "Neha Singh",
+                                             "rating":  5,
+                                             "comment":  "This is a masterpiece! Highly recommend for gifting."
+                                         },
+                                         {
+                                             "userName":  "Vikram Patel",
+                                             "rating":  4,
+                                             "comment":  "Excellent packaging and craftsmanship. Worth every penny."
+                                         }
+                                     ],
+                         "sellingPrice":  4999,
+                         "originalPrice":  6096,
+                         "imageGallery":  [
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027100\u0027 r=\u002735\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpolygon points=\u0027150,140 120,180 180,180\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027180\u0027 width=\u0027100\u0027 height=\u002780\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ERadha Krishna%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027100\u0027 r=\u002735\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpolygon points=\u0027150,140 120,180 180,180\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027180\u0027 width=\u0027100\u0027 height=\u002780\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ERadha Krishna%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027100\u0027 r=\u002735\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpolygon points=\u0027150,140 120,180 180,180\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027180\u0027 width=\u0027100\u0027 height=\u002780\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ERadha Krishna%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027100\u0027 r=\u002735\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpolygon points=\u0027150,140 120,180 180,180\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027180\u0027 width=\u0027100\u0027 height=\u002780\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ERadha Krishna%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027100\u0027 r=\u002735\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpolygon points=\u0027150,140 120,180 180,180\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027180\u0027 width=\u0027100\u0027 height=\u002780\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ERadha Krishna%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027100\u0027 r=\u002735\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpolygon points=\u0027150,140 120,180 180,180\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027180\u0027 width=\u0027100\u0027 height=\u002780\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ERadha Krishna%3C/text%3E%3C/svg%3E"
+                                          ]
+                     },
+                     {
+                         "id":  2,
+                         "category":  "Brass Idols",
+                         "productName":  "Ganesha Brass Idol",
+                         "shortDescription":  "Lord Ganesha traditional brass sculpture",
+                         "fullDescription":  "Magnificent Lord Ganesha idol crafted in pure brass with traditional Indian artistry. This piece symbolizes prosperity, wisdom, and new beginnings. Ideal for temples, homes, and as a spiritual gift.",
+                         "price":  3499,
+                         "popularity":  88,
+                         "overallRating":  4.7,
+                         "image":  "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u002790\u0027 r=\u002740\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 150 130 Q 130 110 110 140\u0027 stroke=\u0027%23cd7f32\u0027 stroke-width=\u00278\u0027 fill=\u0027none\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027175\u0027 width=\u0027100\u0027 height=\u002785\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EGanesha%3C/text%3E%3C/svg%3E",
+                         "reviews":  [
+                                         {
+                                             "userName":  "Deepak Nair",
+                                             "rating":  5,
+                                             "comment":  "Wonderful Ganesha idol. Brings positive energy to my home."
+                                         },
+                                         {
+                                             "userName":  "Anjali Verma",
+                                             "rating":  5,
+                                             "comment":  "Premium quality. Perfect for Ganesh Chaturthi."
+                                         },
+                                         {
+                                             "userName":  "Sanjay Gupta",
+                                             "rating":  4,
+                                             "comment":  "Beautiful and well-crafted. Excellent value."
+                                         },
+                                         {
+                                             "userName":  "Maya Chopra",
+                                             "rating":  5,
+                                             "comment":  "This idol is stunning! Highly satisfied with purchase."
+                                         },
+                                         {
+                                             "userName":  "Arjun Singh",
+                                             "rating":  4,
+                                             "comment":  "Authentic traditional craftsmanship at its best."
+                                         }
+                                     ],
+                         "sellingPrice":  3499,
+                         "originalPrice":  4267,
+                         "imageGallery":  [
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u002790\u0027 r=\u002740\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 150 130 Q 130 110 110 140\u0027 stroke=\u0027%23cd7f32\u0027 stroke-width=\u00278\u0027 fill=\u0027none\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027175\u0027 width=\u0027100\u0027 height=\u002785\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EGanesha%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u002790\u0027 r=\u002740\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 150 130 Q 130 110 110 140\u0027 stroke=\u0027%23cd7f32\u0027 stroke-width=\u00278\u0027 fill=\u0027none\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027175\u0027 width=\u0027100\u0027 height=\u002785\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EGanesha%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u002790\u0027 r=\u002740\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 150 130 Q 130 110 110 140\u0027 stroke=\u0027%23cd7f32\u0027 stroke-width=\u00278\u0027 fill=\u0027none\u0027 opacity=\u00270.7\u0027/%3E%3Crect x=\u0027100\u0027 y=\u0027175\u0027 width=\u0027100\u0027 height=\u002785\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002716\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EGanesha%3C/text%3E%3C/svg%3E"
+                                          ]
+                     },
+                     {
+                         "id":  3,
+                         "category":  "Krishna Vastra",
+                         "productName":  "Traditional Krishna Dupatta",
+                         "shortDescription":  "Handwoven silk Krishna vastra",
+                         "fullDescription":  "Exquisite handwoven silk dupatta featuring traditional Krishna motifs. Crafted by artisans using centuries-old weaving techniques. Perfect for festivals, prayers, and as a precious heirloom gift.",
+                         "price":  2499,
+                         "popularity":  82,
+                         "overallRating":  4.6,
+                         "image":  "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002740\u0027 y=\u002780\u0027 width=\u0027220\u0027 height=\u0027140\u0027 fill=\u0027%231a1a4d\u0027 opacity=\u00270.8\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u0027130\u0027 r=\u002715\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u0027130\u0027 r=\u002715\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 70 160 Q 150 180 230 160\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00273\u0027 fill=\u0027none\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EKrishna Dupatta%3C/text%3E%3C/svg%3E",
+                         "reviews":  [
+                                         {
+                                             "userName":  "Radha Krishnan",
+                                             "rating":  5,
+                                             "comment":  "Authentic Krishna vastra. Beautiful silk quality."
+                                         },
+                                         {
+                                             "userName":  "Meera Devi",
+                                             "rating":  4,
+                                             "comment":  "Perfect for temple offerings. Great craftsmanship."
+                                         },
+                                         {
+                                             "userName":  "Lakshmi Singh",
+                                             "rating":  5,
+                                             "comment":  "Exquisite weaving. I love this piece!"
+                                         },
+                                         {
+                                             "userName":  "Geeta Sharma",
+                                             "rating":  5,
+                                             "comment":  "Authentic and elegant. Highly recommended."
+                                         },
+                                         {
+                                             "userName":  "Suresh Verma",
+                                             "rating":  4,
+                                             "comment":  "Traditional craftsmanship at its finest."
+                                         }
+                                     ],
+                         "sellingPrice":  2499,
+                         "originalPrice":  3048,
+                         "imageGallery":  [
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002740\u0027 y=\u002780\u0027 width=\u0027220\u0027 height=\u0027140\u0027 fill=\u0027%231a1a4d\u0027 opacity=\u00270.8\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u0027130\u0027 r=\u002715\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u0027130\u0027 r=\u002715\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 70 160 Q 150 180 230 160\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00273\u0027 fill=\u0027none\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EKrishna Dupatta%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002740\u0027 y=\u002780\u0027 width=\u0027220\u0027 height=\u0027140\u0027 fill=\u0027%231a1a4d\u0027 opacity=\u00270.8\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u0027130\u0027 r=\u002715\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u0027130\u0027 r=\u002715\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 70 160 Q 150 180 230 160\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00273\u0027 fill=\u0027none\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EKrishna Dupatta%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002740\u0027 y=\u002780\u0027 width=\u0027220\u0027 height=\u0027140\u0027 fill=\u0027%231a1a4d\u0027 opacity=\u00270.8\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u0027130\u0027 r=\u002715\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u0027130\u0027 r=\u002715\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 70 160 Q 150 180 230 160\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00273\u0027 fill=\u0027none\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EKrishna Dupatta%3C/text%3E%3C/svg%3E"
+                                          ]
+                     },
+                     {
+                         "id":  4,
+                         "category":  "Krishna Vastra",
+                         "productName":  "Silk Krishna Jhula Cloth",
+                         "shortDescription":  "Premium handwoven cloth for Krishna idol",
+                         "fullDescription":  "Luxurious handwoven silk cloth specifically designed to adorn Krishna idols during festivals and daily worship. Features intricate traditional patterns and premium quality silk.",
+                         "price":  1999,
+                         "popularity":  75,
+                         "overallRating":  4.5,
+                         "image":  "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002750\u0027 y=\u0027100\u0027 width=\u0027200\u0027 height=\u0027120\u0027 fill=\u0027%238b4513\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 80 120 L 220 120 M 80 140 L 220 140 M 80 160 L 220 160 M 80 180 L 220 180 M 80 200 L 220 200\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EKrishna Cloth%3C/text%3E%3C/svg%3E",
+                         "reviews":  [
+                                         {
+                                             "userName":  "Amit Kumar",
+                                             "rating":  5,
+                                             "comment":  "Perfect quality silk. Beautiful weaving patterns."
+                                         },
+                                         {
+                                             "userName":  "Kavya Nair",
+                                             "rating":  4,
+                                             "comment":  "Great cloth for Krishna idol worship. Authentic feel."
+                                         },
+                                         {
+                                             "userName":  "Ravi Chandran",
+                                             "rating":  5,
+                                             "comment":  "Excellent traditional craftsmanship."
+                                         },
+                                         {
+                                             "userName":  "Sneha Gupta",
+                                             "rating":  5,
+                                             "comment":  "Beautiful colors and patterns. Highly satisfied."
+                                         },
+                                         {
+                                             "userName":  "Nikhil Desai",
+                                             "rating":  4,
+                                             "comment":  "Premium quality at reasonable price."
+                                         }
+                                     ],
+                         "sellingPrice":  1999,
+                         "originalPrice":  2438,
+                         "imageGallery":  [
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002750\u0027 y=\u0027100\u0027 width=\u0027200\u0027 height=\u0027120\u0027 fill=\u0027%238b4513\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 80 120 L 220 120 M 80 140 L 220 140 M 80 160 L 220 160 M 80 180 L 220 180 M 80 200 L 220 200\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EKrishna Cloth%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002750\u0027 y=\u0027100\u0027 width=\u0027200\u0027 height=\u0027120\u0027 fill=\u0027%238b4513\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 80 120 L 220 120 M 80 140 L 220 140 M 80 160 L 220 160 M 80 180 L 220 180 M 80 200 L 220 200\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EKrishna Cloth%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002750\u0027 y=\u0027100\u0027 width=\u0027200\u0027 height=\u0027120\u0027 fill=\u0027%238b4513\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 80 120 L 220 120 M 80 140 L 220 140 M 80 160 L 220 160 M 80 180 L 220 180 M 80 200 L 220 200\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EKrishna Cloth%3C/text%3E%3C/svg%3E"
+                                          ]
+                     },
+                     {
+                         "id":  5,
+                         "category":  "Uparna",
+                         "productName":  "Traditional Uparna Shawl",
+                         "shortDescription":  "Handcrafted Kashmiri Uparna shawl",
+                         "fullDescription":  "Exquisite handcrafted Kashmiri Uparna shawl with intricate embroidery and traditional paisley patterns. Woven using fine wool and silk blend, this timeless piece is perfect for special occasions and winters.",
+                         "price":  8999,
+                         "popularity":  90,
+                         "overallRating":  4.9,
+                         "image":  "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002730\u0027 y=\u002780\u0027 width=\u0027240\u0027 height=\u0027160\u0027 fill=\u0027%238b1a1a\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 60 110 Q 90 130 120 115 Q 150 130 180 115 Q 210 130 240 115\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027 fill=\u0027none\u0027/%3E%3Cpath d=\u0027M 60 180 Q 90 160 120 175 Q 150 160 180 175 Q 210 160 240 175\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027 fill=\u0027none\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EUparna Shawl%3C/text%3E%3C/svg%3E",
+                         "reviews":  [
+                                         {
+                                             "userName":  "Aryan Khanna",
+                                             "rating":  5,
+                                             "comment":  "Absolutely magnificent! Premium Kashmiri craftsmanship."
+                                         },
+                                         {
+                                             "userName":  "Ishita Sharma",
+                                             "rating":  5,
+                                             "comment":  "This shawl is a masterpiece. Worth every rupee."
+                                         },
+                                         {
+                                             "userName":  "Rohan Singh",
+                                             "rating":  5,
+                                             "comment":  "Stunning embroidery and colors. Highly recommend."
+                                         },
+                                         {
+                                             "userName":  "Nisha Verma",
+                                             "rating":  5,
+                                             "comment":  "Perfect gift for a special person. Absolutely stunning."
+                                         },
+                                         {
+                                             "userName":  "Akshay Patel",
+                                             "rating":  4,
+                                             "comment":  "Excellent quality shawl. Great for winter collection."
+                                         }
+                                     ],
+                         "sellingPrice":  8999,
+                         "originalPrice":  10974,
+                         "imageGallery":  [
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002730\u0027 y=\u002780\u0027 width=\u0027240\u0027 height=\u0027160\u0027 fill=\u0027%238b1a1a\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 60 110 Q 90 130 120 115 Q 150 130 180 115 Q 210 130 240 115\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027 fill=\u0027none\u0027/%3E%3Cpath d=\u0027M 60 180 Q 90 160 120 175 Q 150 160 180 175 Q 210 160 240 175\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027 fill=\u0027none\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EUparna Shawl%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002730\u0027 y=\u002780\u0027 width=\u0027240\u0027 height=\u0027160\u0027 fill=\u0027%238b1a1a\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 60 110 Q 90 130 120 115 Q 150 130 180 115 Q 210 130 240 115\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027 fill=\u0027none\u0027/%3E%3Cpath d=\u0027M 60 180 Q 90 160 120 175 Q 150 160 180 175 Q 210 160 240 175\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027 fill=\u0027none\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EUparna Shawl%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002730\u0027 y=\u002780\u0027 width=\u0027240\u0027 height=\u0027160\u0027 fill=\u0027%238b1a1a\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 60 110 Q 90 130 120 115 Q 150 130 180 115 Q 210 130 240 115\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027 fill=\u0027none\u0027/%3E%3Cpath d=\u0027M 60 180 Q 90 160 120 175 Q 150 160 180 175 Q 210 160 240 175\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027 fill=\u0027none\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EUparna Shawl%3C/text%3E%3C/svg%3E"
+                                          ]
+                     },
+                     {
+                         "id":  6,
+                         "category":  "Uparna",
+                         "productName":  "Embroidered Wool Uparna",
+                         "shortDescription":  "Fine wool embroidered Uparna",
+                         "fullDescription":  "Premium fine wool Uparna with hand-embroidered details. Features traditional Indian motifs and patterns. Ideal for festivals, special occasions, and as a luxurious wardrobe addition.",
+                         "price":  6499,
+                         "popularity":  85,
+                         "overallRating":  4.7,
+                         "image":  "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002740\u0027 y=\u002790\u0027 width=\u0027220\u0027 height=\u0027150\u0027 fill=\u0027%23654321\u0027 opacity=\u00270.8\u0027/%3E%3Ccircle cx=\u002780\u0027 cy=\u0027140\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027120\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027220\u0027 cy=\u0027145\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 70 190 L 230 190\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EWool Uparna%3C/text%3E%3C/svg%3E",
+                         "reviews":  [
+                                         {
+                                             "userName":  "Vikram Rao",
+                                             "rating":  5,
+                                             "comment":  "Beautiful wool quality. Perfect embroidery work."
+                                         },
+                                         {
+                                             "userName":  "Divya Nair",
+                                             "rating":  4,
+                                             "comment":  "Great traditional piece. Comfortable to wear."
+                                         },
+                                         {
+                                             "userName":  "Sanjay Desai",
+                                             "rating":  5,
+                                             "comment":  "Excellent craftsmanship and design."
+                                         },
+                                         {
+                                             "userName":  "Pooja Singh",
+                                             "rating":  5,
+                                             "comment":  "Looks premium and feels luxurious."
+                                         },
+                                         {
+                                             "userName":  "Rajesh Kumar",
+                                             "rating":  4,
+                                             "comment":  "Worth the investment. Timeless piece."
+                                         }
+                                     ],
+                         "sellingPrice":  6499,
+                         "originalPrice":  7926,
+                         "imageGallery":  [
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002740\u0027 y=\u002790\u0027 width=\u0027220\u0027 height=\u0027150\u0027 fill=\u0027%23654321\u0027 opacity=\u00270.8\u0027/%3E%3Ccircle cx=\u002780\u0027 cy=\u0027140\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027120\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027220\u0027 cy=\u0027145\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 70 190 L 230 190\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EWool Uparna%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002740\u0027 y=\u002790\u0027 width=\u0027220\u0027 height=\u0027150\u0027 fill=\u0027%23654321\u0027 opacity=\u00270.8\u0027/%3E%3Ccircle cx=\u002780\u0027 cy=\u0027140\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027120\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027220\u0027 cy=\u0027145\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 70 190 L 230 190\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EWool Uparna%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002740\u0027 y=\u002790\u0027 width=\u0027220\u0027 height=\u0027150\u0027 fill=\u0027%23654321\u0027 opacity=\u00270.8\u0027/%3E%3Ccircle cx=\u002780\u0027 cy=\u0027140\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027120\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027220\u0027 cy=\u0027145\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 70 190 L 230 190\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EWool Uparna%3C/text%3E%3C/svg%3E"
+                                          ]
+                     },
+                     {
+                         "id":  7,
+                         "category":  "Handicrafts",
+                         "productName":  "Hand-painted Terracotta Pot",
+                         "shortDescription":  "Artisan-made decorative terracotta",
+                         "fullDescription":  "Beautiful hand-painted terracotta pot crafted by skilled artisans. Features traditional Indian art patterns and authentic earth tones. Perfect for home decor, plants, or as an art piece.",
+                         "price":  1499,
+                         "popularity":  78,
+                         "overallRating":  4.6,
+                         "image":  "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Cpath d=\u0027M 120 70 L 110 180 Q 110 210 150 210 Q 190 210 190 180 L 180 70\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u0027115\u0027 y=\u002765\u0027 width=\u002770\u0027 height=\u002712\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Ccircle cx=\u0027130\u0027 cy=\u0027120\u0027 r=\u00278\u0027 fill=\u0027%238b4513\u0027/%3E%3Ccircle cx=\u0027170\u0027 cy=\u0027135\u0027 r=\u00278\u0027 fill=\u0027%238b4513\u0027/%3E%3Cpath d=\u0027M 150 90 L 170 100\u0027 stroke=\u0027%238b4513\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ETerracotta Pot%3C/text%3E%3C/svg%3E",
+                         "reviews":  [
+                                         {
+                                             "userName":  "Ananya Devi",
+                                             "rating":  5,
+                                             "comment":  "Beautiful hand-painted design. Very authentic."
+                                         },
+                                         {
+                                             "userName":  "Manish Verma",
+                                             "rating":  4,
+                                             "comment":  "Great for home decor. Excellent craftsmanship."
+                                         },
+                                         {
+                                             "userName":  "Priya Nair",
+                                             "rating":  5,
+                                             "comment":  "Looks gorgeous in my living room. Highly recommend."
+                                         },
+                                         {
+                                             "userName":  "Gaurav Singh",
+                                             "rating":  4,
+                                             "comment":  "Authentic Indian art. Perfect gift item."
+                                         },
+                                         {
+                                             "userName":  "Ritika Sharma",
+                                             "rating":  5,
+                                             "comment":  "Amazingly beautiful and well-made."
+                                         }
+                                     ],
+                         "sellingPrice":  1499,
+                         "originalPrice":  1828,
+                         "imageGallery":  [
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Cpath d=\u0027M 120 70 L 110 180 Q 110 210 150 210 Q 190 210 190 180 L 180 70\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u0027115\u0027 y=\u002765\u0027 width=\u002770\u0027 height=\u002712\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Ccircle cx=\u0027130\u0027 cy=\u0027120\u0027 r=\u00278\u0027 fill=\u0027%238b4513\u0027/%3E%3Ccircle cx=\u0027170\u0027 cy=\u0027135\u0027 r=\u00278\u0027 fill=\u0027%238b4513\u0027/%3E%3Cpath d=\u0027M 150 90 L 170 100\u0027 stroke=\u0027%238b4513\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ETerracotta Pot%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Cpath d=\u0027M 120 70 L 110 180 Q 110 210 150 210 Q 190 210 190 180 L 180 70\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u0027115\u0027 y=\u002765\u0027 width=\u002770\u0027 height=\u002712\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Ccircle cx=\u0027130\u0027 cy=\u0027120\u0027 r=\u00278\u0027 fill=\u0027%238b4513\u0027/%3E%3Ccircle cx=\u0027170\u0027 cy=\u0027135\u0027 r=\u00278\u0027 fill=\u0027%238b4513\u0027/%3E%3Cpath d=\u0027M 150 90 L 170 100\u0027 stroke=\u0027%238b4513\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ETerracotta Pot%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Cpath d=\u0027M 120 70 L 110 180 Q 110 210 150 210 Q 190 210 190 180 L 180 70\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u0027115\u0027 y=\u002765\u0027 width=\u002770\u0027 height=\u002712\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.7\u0027/%3E%3Ccircle cx=\u0027130\u0027 cy=\u0027120\u0027 r=\u00278\u0027 fill=\u0027%238b4513\u0027/%3E%3Ccircle cx=\u0027170\u0027 cy=\u0027135\u0027 r=\u00278\u0027 fill=\u0027%238b4513\u0027/%3E%3Cpath d=\u0027M 150 90 L 170 100\u0027 stroke=\u0027%238b4513\u0027 stroke-width=\u00272\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3ETerracotta Pot%3C/text%3E%3C/svg%3E"
+                                          ]
+                     },
+                     {
+                         "id":  8,
+                         "category":  "Handicrafts",
+                         "productName":  "Brass Bell with Traditional Design",
+                         "shortDescription":  "Handcrafted brass bell",
+                         "fullDescription":  "Exquisite handcrafted brass bell with traditional Indian designs. Used in temples and homes for spiritual purposes. Features authentic craftsmanship and pure brass construction.",
+                         "price":  899,
+                         "popularity":  82,
+                         "overallRating":  4.5,
+                         "image":  "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Cpath d=\u0027M 150 80 L 170 120 Q 170 160 150 170 Q 130 160 130 120 Z\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 140 175 Q 150 185 160 175\u0027 stroke=\u0027%234a3728\u0027 stroke-width=\u00273\u0027 fill=\u0027none\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027145\u0027 r=\u00276\u0027 fill=\u0027%238b4513\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EBrass Bell%3C/text%3E%3C/svg%3E",
+                         "reviews":  [
+                                         {
+                                             "userName":  "Suresh Nair",
+                                             "rating":  5,
+                                             "comment":  "Perfect temple bell. Pure brass quality."
+                                         },
+                                         {
+                                             "userName":  "Lakshmi Devi",
+                                             "rating":  5,
+                                             "comment":  "Beautiful sound and craftsmanship. Absolutely authentic."
+                                         },
+                                         {
+                                             "userName":  "Hari Verma",
+                                             "rating":  4,
+                                             "comment":  "Great traditional bell. Perfect for puja."
+                                         },
+                                         {
+                                             "userName":  "Savitri Singh",
+                                             "rating":  5,
+                                             "comment":  "Excellent quality. Great addition to home altar."
+                                         },
+                                         {
+                                             "userName":  "Mohan Kumar",
+                                             "rating":  4,
+                                             "comment":  "Authentic and well-made. Highly satisfied."
+                                         }
+                                     ],
+                         "sellingPrice":  899,
+                         "originalPrice":  1096,
+                         "imageGallery":  [
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Cpath d=\u0027M 150 80 L 170 120 Q 170 160 150 170 Q 130 160 130 120 Z\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 140 175 Q 150 185 160 175\u0027 stroke=\u0027%234a3728\u0027 stroke-width=\u00273\u0027 fill=\u0027none\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027145\u0027 r=\u00276\u0027 fill=\u0027%238b4513\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EBrass Bell%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Cpath d=\u0027M 150 80 L 170 120 Q 170 160 150 170 Q 130 160 130 120 Z\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 140 175 Q 150 185 160 175\u0027 stroke=\u0027%234a3728\u0027 stroke-width=\u00273\u0027 fill=\u0027none\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027145\u0027 r=\u00276\u0027 fill=\u0027%238b4513\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EBrass Bell%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Cpath d=\u0027M 150 80 L 170 120 Q 170 160 150 170 Q 130 160 130 120 Z\u0027 fill=\u0027%23cd7f32\u0027 opacity=\u00270.8\u0027/%3E%3Cpath d=\u0027M 140 175 Q 150 185 160 175\u0027 stroke=\u0027%234a3728\u0027 stroke-width=\u00273\u0027 fill=\u0027none\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027145\u0027 r=\u00276\u0027 fill=\u0027%238b4513\u0027 opacity=\u00270.6\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002714\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EBrass Bell%3C/text%3E%3C/svg%3E"
+                                          ]
+                     },
+                     {
+                         "id":  9,
+                         "category":  "Gift Box",
+                         "productName":  "Premium Gifting Hamper - Brass Collection",
+                         "shortDescription":  "Luxury brass items gift hamper",
+                         "fullDescription":  "Exquisitely curated luxury gift hamper containing premium brass idols, traditional items, and wellness products. Perfect for corporate gifting, festivals, and special occasions. Beautifully packaged with premium presentation.",
+                         "price":  12999,
+                         "popularity":  92,
+                         "overallRating":  4.8,
+                         "image":  "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002760\u0027 y=\u0027100\u0027 width=\u0027180\u0027 height=\u0027130\u0027 fill=\u0027%238b1a1a\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u002755\u0027 y=\u002795\u0027 width=\u0027190\u0027 height=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 100 105 L 100 95 M 150 105 L 150 80 M 200 105 L 200 95\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00273\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u002785\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u002765\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u002785\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002713\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EPremium Hamper%3C/text%3E%3C/svg%3E",
+                         "reviews":  [
+                                         {
+                                             "userName":  "Arjun Verma",
+                                             "rating":  5,
+                                             "comment":  "Stunning gift hamper. Perfect for corporate gifting."
+                                         },
+                                         {
+                                             "userName":  "Anjali Sharma",
+                                             "rating":  5,
+                                             "comment":  "Beautifully curated. Recipient was thrilled!"
+                                         },
+                                         {
+                                             "userName":  "Nikhil Singh",
+                                             "rating":  5,
+                                             "comment":  "Premium quality items. Excellent packaging."
+                                         },
+                                         {
+                                             "userName":  "Meera Nair",
+                                             "rating":  5,
+                                             "comment":  "Perfect for gifting. Looks absolutely luxurious."
+                                         },
+                                         {
+                                             "userName":  "Rajesh Patel",
+                                             "rating":  4,
+                                             "comment":  "Great value. Highly recommend for special occasions."
+                                         }
+                                     ],
+                         "sellingPrice":  12999,
+                         "originalPrice":  15852,
+                         "imageGallery":  [
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002760\u0027 y=\u0027100\u0027 width=\u0027180\u0027 height=\u0027130\u0027 fill=\u0027%238b1a1a\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u002755\u0027 y=\u002795\u0027 width=\u0027190\u0027 height=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 100 105 L 100 95 M 150 105 L 150 80 M 200 105 L 200 95\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00273\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u002785\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u002765\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u002785\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002713\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EPremium Hamper%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002760\u0027 y=\u0027100\u0027 width=\u0027180\u0027 height=\u0027130\u0027 fill=\u0027%238b1a1a\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u002755\u0027 y=\u002795\u0027 width=\u0027190\u0027 height=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 100 105 L 100 95 M 150 105 L 150 80 M 200 105 L 200 95\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00273\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u002785\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u002765\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u002785\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002713\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EPremium Hamper%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002760\u0027 y=\u0027100\u0027 width=\u0027180\u0027 height=\u0027130\u0027 fill=\u0027%238b1a1a\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u002755\u0027 y=\u002795\u0027 width=\u0027190\u0027 height=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Cpath d=\u0027M 100 105 L 100 95 M 150 105 L 150 80 M 200 105 L 200 95\u0027 stroke=\u0027%23d4af37\u0027 stroke-width=\u00273\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u002785\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u002765\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u002785\u0027 r=\u00278\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002713\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EPremium Hamper%3C/text%3E%3C/svg%3E"
+                                          ]
+                     },
+                     {
+                         "id":  10,
+                         "category":  "Gift Box",
+                         "productName":  "Festive Wellness Gift Box",
+                         "shortDescription":  "Curated wellness and spiritual items",
+                         "fullDescription":  "Thoughtfully curated wellness gift box featuring traditional ayurvedic products, sandalwood items, aromatics, and spiritual essentials. Perfect for promoting wellness and spiritual well-being.",
+                         "price":  5499,
+                         "popularity":  80,
+                         "overallRating":  4.7,
+                         "image":  "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002770\u0027 y=\u0027110\u0027 width=\u0027160\u0027 height=\u0027110\u0027 fill=\u0027%23dcc7b8\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u002765\u0027 y=\u0027105\u0027 width=\u0027170\u0027 height=\u002712\u0027 fill=\u0027%238b6f47\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u0027160\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027145\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u0027160\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002713\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EWellness Box%3C/text%3E%3C/svg%3E",
+                         "reviews":  [
+                                         {
+                                             "userName":  "Priya Desai",
+                                             "rating":  5,
+                                             "comment":  "Wonderful wellness gift. Authentic and thoughtful."
+                                         },
+                                         {
+                                             "userName":  "Vikram Singh",
+                                             "rating":  5,
+                                             "comment":  "Beautiful collection of wellness items. Highly satisfied."
+                                         },
+                                         {
+                                             "userName":  "Neha Sharma",
+                                             "rating":  4,
+                                             "comment":  "Great quality products. Perfect gift for health-conscious friends."
+                                         },
+                                         {
+                                             "userName":  "Sanjay Nair",
+                                             "rating":  5,
+                                             "comment":  "Amazing wellness box. Feels premium and authentic."
+                                         },
+                                         {
+                                             "userName":  "Kavya Verma",
+                                             "rating":  5,
+                                             "comment":  "Excellent selection. Love all the items included."
+                                         }
+                                     ],
+                         "sellingPrice":  5499,
+                         "originalPrice":  6706,
+                         "imageGallery":  [
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002770\u0027 y=\u0027110\u0027 width=\u0027160\u0027 height=\u0027110\u0027 fill=\u0027%23dcc7b8\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u002765\u0027 y=\u0027105\u0027 width=\u0027170\u0027 height=\u002712\u0027 fill=\u0027%238b6f47\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u0027160\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027145\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u0027160\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002713\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EWellness Box%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002770\u0027 y=\u0027110\u0027 width=\u0027160\u0027 height=\u0027110\u0027 fill=\u0027%23dcc7b8\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u002765\u0027 y=\u0027105\u0027 width=\u0027170\u0027 height=\u002712\u0027 fill=\u0027%238b6f47\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u0027160\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027145\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u0027160\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002713\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EWellness Box%3C/text%3E%3C/svg%3E",
+                                              "data:image/svg+xml,%3Csvg xmlns=\u0027http://www.w3.org/2000/svg\u0027 width=\u0027300\u0027 height=\u0027300\u0027 viewBox=\u00270 0 300 300\u0027%3E%3Crect fill=\u0027%23f5e6d3\u0027 width=\u0027300\u0027 height=\u0027300\u0027/%3E%3Crect x=\u002770\u0027 y=\u0027110\u0027 width=\u0027160\u0027 height=\u0027110\u0027 fill=\u0027%23dcc7b8\u0027 opacity=\u00270.8\u0027/%3E%3Crect x=\u002765\u0027 y=\u0027105\u0027 width=\u0027170\u0027 height=\u002712\u0027 fill=\u0027%238b6f47\u0027/%3E%3Ccircle cx=\u0027100\u0027 cy=\u0027160\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027150\u0027 cy=\u0027145\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ccircle cx=\u0027200\u0027 cy=\u0027160\u0027 r=\u002712\u0027 fill=\u0027%23d4af37\u0027/%3E%3Ctext x=\u0027150\u0027 y=\u0027280\u0027 font-size=\u002713\u0027 text-anchor=\u0027middle\u0027 fill=\u0027%234a3728\u0027%3EWellness Box%3C/text%3E%3C/svg%3E"
+                                          ]
+                     }
+                 ]
+}

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kaneria Family Tree</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="app-header">
+      <div class="brand">
+        <span class="logo">??</span>
+        <div>
+          <h1>Kaneria Family Tree</h1>
+          <p>Build, manage and export your family tree with relationships, branches and photos.</p>
+        </div>
+      </div>
+      <div class="control-group">
+        <button id="openMemberBtn" class="btn primary">+ Add member</button>
+        <button id="generateFinalBtn" class="btn secondary">Generate Final Family Tree Page</button>
+      </div>
+    </header>
+
+    <div id="saveStatus" class="save-status" style="display:none;">
+      <span id="saveMessage"></span>
+    </div>
+
+    <section class="controls-panel">
+      <form id="searchForm" class="control-panel-item">
+        <label for="searchInput">Search members</label>
+        <input id="searchInput" type="search" placeholder="Name, ID, or branch">
+      </form>
+      <div class="control-panel-item">
+        <label for="branchFilter">Filter branch</label>
+        <select id="branchFilter"></select>
+      </div>
+      <div class="control-panel-item">
+        <label>Actions</label>
+        <div class="control-group">
+          <button id="openImportBtn" class="btn secondary">📂 Import JSON</button>
+          <button id="exportJsonBtn" class="btn secondary">💾 Export JSON</button>
+          <button id="printBtn" class="btn secondary">🖨️ Print tree</button>
+        </div>
+        <input id="importJsonInput" type="file" accept="application/json" hidden>
+      </div>
+    </section>
+
+    <section class="tree-area">
+      <div class="tree-toolbar">
+        <div class="toolbar-status">
+          <span><strong>Total members:</strong> <span id="totalMembers"></span></span>
+          <span><strong>Branches:</strong> <span id="totalBranches"></span></span>
+        </div>
+        <div class="toolbar-actions">
+          <label for="zoomRange">Zoom</label>
+          <input id="zoomRange" type="range" min="0.65" max="1.6" step="0.05" value="1">
+          <span id="zoomValue">100%</span>
+          <button id="modeToggle" class="btn outline">Dark mode</button>
+        </div>
+      </div>
+      <div id="treeViewport" class="tree-viewport" title="Drag to pan the tree">
+        <div id="treeCanvas" class="tree-canvas"></div>
+      </div>
+    </section>
+  </div>
+
+  <div id="memberModal" class="modal-backdrop">
+    <div class="modal-panel">
+      <div class="modal-header">
+        <h2 id="modalTitle">Add Family Member</h2>
+        <button id="closeMemberModal" class="modal-close" aria-label="Close">?</button>
+      </div>
+      <form id="memberForm" class="modal-form">
+        <div class="field-group">
+          <label for="fullName">Full name *</label>
+          <input id="fullName" type="text" required placeholder="Enter full name">
+        </div>
+        <div class="field-row">
+          <div class="field-group">
+            <label for="gender">Gender *</label>
+            <select id="gender" required>
+              <option value="">Choose gender</option>
+              <option value="Male">Male</option>
+              <option value="Female">Female</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+          <div class="field-group">
+            <label for="birthDate">Date of birth *</label>
+            <input id="birthDate" type="date" required>
+          </div>
+        </div>
+        <div class="field-group">
+          <label for="familyId">Family ID</label>
+          <div class="field-row">
+            <input id="familyId" type="text" placeholder="F1">
+            <button type="button" id="newFamilyIdBtn" class="mini-btn">New branch</button>
+          </div>
+          <p class="footer-notice">Use format F<number>. Leave blank to auto-generate.</p>
+        </div>
+        <div class="field-row">
+          <div class="field-group">
+            <label for="fatherId">Father</label>
+            <select id="fatherId"></select>
+          </div>
+          <div class="field-group">
+            <label for="motherId">Mother</label>
+            <select id="motherId"></select>
+          </div>
+        </div>
+        <div class="field-group">
+          <label for="spouseId">Spouse</label>
+          <select id="spouseId"></select>
+        </div>
+        <div class="field-row">
+          <div class="field-group">
+            <label for="phoneNumber">Phone number</label>
+            <input id="phoneNumber" type="tel" placeholder="+1 (123) 456-7890">
+          </div>
+          <div class="field-group">
+            <label for="email">Email address</label>
+            <input id="email" type="email" placeholder="name@example.com">
+          </div>
+        </div>
+        <div class="field-row">
+          <div class="field-group">
+            <label for="birthPlace">Birth place</label>
+            <input id="birthPlace" type="text" placeholder="City, Country">
+          </div>
+          <div class="field-group">
+            <label for="currentCity">Current city</label>
+            <input id="currentCity" type="text" placeholder="City, Country">
+          </div>
+        </div>
+        <div class="field-row">
+          <div class="field-group">
+            <label for="occupation">Current occupation</label>
+            <input id="occupation" type="text" placeholder="Job title or profession">
+          </div>
+          <div class="field-group">
+            <label for="education">Education</label>
+            <input id="education" type="text" placeholder="Degree, School, University">
+          </div>
+        </div>
+        <div class="field-group">
+          <label for="photos">Photos (Maximum 3)</label>
+          <input id="photos" type="file" accept="image/*" multiple>
+          <p class="footer-notice">Upload up to 3 photos</p>
+        </div>
+        <div class="photos-gallery" id="photosGallery">
+          <div class="photo-placeholder">Photo gallery will appear here</div>
+        </div>
+        <div class="field-group">
+          <label for="notes">Notes</label>
+          <textarea id="notes" rows="4" placeholder="Add a memory or role summary"></textarea>
+        </div>
+        <div class="modal-actions">
+          <button type="submit" class="btn primary">Save member</button>
+          <button type="button" class="btn secondary" onclick="closeMemberModal()">Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <footer class="app-footer">
+    <p>Developed by Shashank Kaneria, copyright © 2026</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>

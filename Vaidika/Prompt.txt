@@ -1,0 +1,252 @@
+Create a premium single-page ecommerce website for an Indian traditional lifestyle and handicraft brand named “TattvaRa”.
+
+Brand Identity:
+TattvaRa represents authentic Indian heritage, spirituality, handcrafted artistry, wellness, and premium gifting. The website should feel luxurious, warm, culturally rooted, and emotionally rich while maintaining a modern ecommerce experience.
+
+Products Include:
+
+* Brass Idols
+* Krishna Cloths / Vastra
+* Uparna
+* Handicrafts
+* Gift Box
+* Bulk / Corporate Gifting
+
+Website Goal:
+Create a visually stunning, smooth, premium Indian-inspired ecommerce website that feels traditional yet modern. The experience should resemble a luxury handcrafted Indian brand with subtle elegance and storytelling.
+
+Design Style:
+
+* Single-page website
+* Premium Indian luxury aesthetic
+* Minimal yet rich visual design
+* Subtle earthy colors
+* Smooth scrolling and elegant transitions
+* High-end product presentation
+* Mobile responsive
+* Fast loading
+* Clean layout with premium spacing
+
+Color Palette:
+
+* Deep saffron
+* Brass gold
+* Warm beige
+* Off-white
+* Sandalwood tones
+* Dark maroon accents
+* Avoid bright neon or flashy modern colors
+
+Typography:
+Use elegant Indian-inspired premium fonts.
+Headings should feel traditional and royal.
+Body text should remain modern and readable.
+
+Suggested feeling:
+
+* Temple heritage
+* Handcrafted authenticity
+* Spiritual luxury
+* Indian cultural richness
+
+Website Sections:
+
+1. Hero Section
+
+* Full-width cinematic hero banner
+* Traditional Indian luxury visuals
+* Smooth fade animations
+* Tagline:
+  “Rooted in Tradition. Crafted with Soul.”
+* CTA buttons:
+
+  * Explore Collection
+  * Bulk Gifting
+
+2. Category Showcase
+   Display visually rich category cards for:
+
+* Brass Idols
+* Krishna Vastra
+* Uparna
+* Handicrafts
+* Sharbat
+* Tea & Extracts
+* Bulk Gifting
+
+3. Product Listing Section
+   Features Required:
+
+* Product search bar
+* Category-wise filters
+* Sort options:
+
+  * Price Low to High
+  * Price High to Low
+  * Popularity
+  * Highest Rated
+* Responsive product grid
+* Product cards should contain:
+
+  * Product image
+  * Product name
+  * Short description
+  * Price
+  * Rating stars
+  * Add to Cart button
+  * Quick View button
+
+4. Product Popup Modal
+   When clicking on a product:
+   Open a premium animated popup modal containing:
+
+* Large product image
+* Product title
+* Detailed description
+* Product category
+* Product price
+* Overall rating
+* Rating stars
+* User reviews section
+* 5 customer reviews with:
+
+  * User name
+  * Rating
+  * Review comment
+* Quantity selector
+* Add to Cart button
+* Smooth open/close animation
+
+5. About Brand Section
+   Create an emotional storytelling section describing:
+
+* Indian heritage
+* Traditional craftsmanship
+* Spiritual roots
+* Handcrafted authenticity
+* Wellness and gifting culture
+
+6. Bulk Gifting Section
+   Promote:
+
+* Wedding gifting
+* Festive gifting
+* Corporate gifting
+* Temple gifting
+* Customized hampers
+
+Include CTA:
+“Contact on WhatsApp for Bulk Orders”
+
+7. Cart & Checkout
+   Features:
+
+* Slide-in premium cart drawer
+* Quantity update
+* Remove item
+* Total price calculation
+
+Checkout Flow:
+Instead of payment gateway:
+
+* Clicking “Checkout” should generate a detailed WhatsApp order message automatically.
+
+WhatsApp Order Message Must Include:
+
+* Customer name
+* Phone number
+* Product names
+* Quantity
+* Individual prices
+* Total amount
+* Delivery address
+* Timestamp
+
+Open WhatsApp chat with prefilled message.
+
+8. Footer
+   Include:
+
+* Brand story
+* Social media icons
+* WhatsApp contact
+* Email
+* Quick links
+* Copyright
+
+Animations:
+
+* Smooth hover animations
+* Elegant fade-in transitions
+* Scroll reveal effects
+* Premium micro interactions
+* Soft shadows and depth
+* Floating subtle decorative elements
+
+Technical Requirements:
+
+* Use JSON-based product management
+* Entire product catalog should dynamically render from a JSON file
+* Website auto-updates when JSON changes
+* Clean reusable component architecture
+* Optimized for scalability
+
+JSON Structure Must Include:
+
+* id
+* category
+* productName
+* shortDescription
+* fullDescription
+* price
+* popularity
+* overallRating
+* image
+* reviews
+
+Each review object must contain:
+
+* userName
+* rating
+* comment
+
+Example:
+{
+"id": 1,
+"category": "Brass Idols",
+"productName": "Radha Krishna Brass Idol",
+"shortDescription": "Handcrafted traditional brass idol",
+"fullDescription": "Beautiful handcrafted Radha Krishna idol made by Indian artisans using traditional techniques.",
+"price": 4999,
+"popularity": 95,
+"overallRating": 4.8,
+"image": "/images/krishna-idol.jpg",
+"reviews": [
+{
+"userName": "Aarav Sharma",
+"rating": 5,
+"comment": "Absolutely divine craftsmanship."
+}
+]
+}
+
+Technology Suggestions:
+
+* React.js or Next.js
+* Tailwind CSS
+* Framer Motion for animations
+* JSON-based dynamic rendering
+* Responsive mobile-first design
+
+Overall Experience:
+The website should feel like:
+“A luxury Indian heritage boutique blended with modern ecommerce elegance.”
+
+Avoid:
+
+* Cheap marketplace feel
+* Overcrowded UI
+* Flashy colors
+* Generic ecommerce styling
+
+The final design should emotionally connect users with Indian tradition, spirituality, handcrafted culture, and premium gifting.

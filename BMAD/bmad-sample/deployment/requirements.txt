@@ -1,0 +1,3 @@
+# Python dependencies for deployment
+openai
+python-dotenv
